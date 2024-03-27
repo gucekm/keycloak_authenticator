@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>authenticator-required-action-example</name>
+	<name>keycloak-authenticator</name>
 	<comment></comment>
 	<projects>
 	</projects>
