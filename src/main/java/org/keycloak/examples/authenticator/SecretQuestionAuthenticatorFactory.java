@@ -35,7 +35,7 @@ import java.util.List;
  */
 public class SecretQuestionAuthenticatorFactory implements AuthenticatorFactory, ConfigurableAuthenticatorFactory {
 
-    public static final String PROVIDER_ID = "secret-question-authenticator";
+    public static final String PROVIDER_ID = "secret-question-authenticator-trala";
     private static final SecretQuestionAuthenticator SINGLETON = new SecretQuestionAuthenticator();
 
     @Override

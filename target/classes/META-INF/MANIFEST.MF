@@ -1,24 +1,24 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 17
-Specification-Title: Authenticator Example
+Specification-Title: My Keycloak Authenticator
 Specification-Version: 18.0
 Specification-Vendor: JBoss by Red Hat
-Implementation-Title: Authenticator Example
+Implementation-Title: My Keycloak Authenticator
 Implementation-Version: 18.0.2
 Implementation-Vendor: JBoss by Red Hat
 Created-By: Maven Integration for Eclipse
 Implementation-URL: http://keycloak.org/keycloak-examples-parent/keycloa
- k-examples-providers-parent/authenticator-required-action-example
+ k-examples-providers-parent/keycloak-authenticator-tralala
 Java-Vendor: Red Hat, Inc.
 Java-Version: 17.0.9
 Os-Arch: amd64
 Os-Name: Windows 10
 Os-Version: 10.0
 Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
- examples-parent/keycloak-examples-providers-parent/authenticator-requir
- ed-action-example
+ examples-parent/keycloak-examples-providers-parent/keycloak-authenticat
+ or-tralala
 Scm-Revision: 
 Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-examp
- les-parent/keycloak-examples-providers-parent/authenticator-required-ac
- tion-example/
+ les-parent/keycloak-examples-providers-parent/keycloak-authenticator-tr
+ alala/
 

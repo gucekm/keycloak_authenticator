@@ -27,7 +27,7 @@
     <description/>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>keycloak-authenticator</artifactId>
+    <artifactId>keycloak-authenticator-tralala</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
@@ -59,7 +59,7 @@
     </dependencies>
 
     <build>
-        <finalName>keycloak-authenticator</finalName>
+        <finalName>keycloak-authenticator-tralala</finalName>
         <plugins>
             <plugin>
                 <groupId>org.wildfly.plugins</groupId>
