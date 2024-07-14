@@ -23,11 +23,11 @@
         <version>18.0.2</version>
     </parent>
 
-    <name>My Keycloak Authenticator</name>
+    <name>Authenticator Example</name>
     <description/>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>keycloak-authenticator-tralala</artifactId>
+    <artifactId>authenticator-required-action-example</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
@@ -59,7 +59,7 @@
     </dependencies>
 
     <build>
-        <finalName>keycloak-authenticator-tralala</finalName>
+        <finalName>authenticator-required-action-example</finalName>
         <plugins>
             <plugin>
                 <groupId>org.wildfly.plugins</groupId>
